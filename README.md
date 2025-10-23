@@ -1,9 +1,9 @@
-# markdown-to-html
+# generic
 
-**Round**: 1
+**Round**: 2
 
 ## Summary
-Publish a static page that converts input.md to HTML with marked, render in #markdown-output, and load highlight.js.
+Add tabs #markdown-tabs switching between rendered HTML in #markdown-output and original Markdown in #markdown-source with live word count and source label.
 
 ## Setup
 Static site deployed by GitHub Pages via Actions.
